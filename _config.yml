@@ -3,10 +3,9 @@ description: Organizzazione di Volontariato
 lang: it
 
 # Public address of the site.
-# baseurl = the subfolder, because this is a GitHub "project site".
-# Clear baseurl once the custom domain gruppocinofiloverolese.it is wired up.
-url: https://g002alghisi.github.io
-baseurl: /WEB-gcv
+# The custom domain serves the site at the root, so baseurl stays empty.
+url: https://gruppocinofiloverolese.it
+baseurl: ""
 
 theme: bulma-clean-theme
 
