@@ -51,3 +51,6 @@ tmp/
 .tmp/
 *.local.md
 node_modules/
+
+# --- OLD WEBSITE ---
+old/
