@@ -41,9 +41,8 @@ in due, e quasi sempre la parte più lunga del lavoro riguarda l'umano.
 
 ## Quando ci si trova
 
-Il ritrovo abituale è il **sabato pomeriggio**, indicativamente dalle 14 alle 17;
-chi viene con il proprio cane di solito si ferma nella prima parte, fino alle 16
-circa. La domenica mattina siamo al campo o fuori per le ricerche.
+Il ritrovo abituale è il **sabato pomeriggio**, indicativamente dalle 14:00 alle
+16:00.
 
 Ci siamo tutto l'anno, primavera, autunno e inverno. D'estate il caldo si fa
 sentire e il campo è meno frequentato, ma qualcuno c'è quasi sempre.

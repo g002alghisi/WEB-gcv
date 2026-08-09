@@ -23,6 +23,9 @@ TODO — questa sezione avra' una pagina sua, /cosa-facciamo/ricerca/, appena
 raccogliamo il materiale: come si svolge una ricerca, che addestramento c'e'
 dietro, a quali esercitazioni avete partecipato. Allora questo paragrafo si
 accorcia e prende il link.
+Da raccontare li': la domenica mattina i volontari sono al campo oppure fuori
+per le ricerche. Serve a far vedere il lavoro del gruppo, non e' un orario per
+i privati - per questo non sta sulla pagina dell'educazione di base.
 {% endcomment %}
 
 ## Educazione di base
