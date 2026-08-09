@@ -7,11 +7,21 @@ permalink: /contatti/
 
 ## Dove siamo
 
-**Campo di Addestramento** — Località Ponte della Luna, 25028 Verolanuova (BS).
-Raggiungibile percorrendo Via Galileo Galilei fino al suo termine e seguendo le
+**Campo di addestramento** — Località Ponte della Luna, 25028 Verolanuova (BS).
+Si arriva percorrendo Via Galileo Galilei fino al suo termine, poi seguendo le
 indicazioni segnaletiche.
+[Apri nelle mappe](https://www.google.com/maps/search/?api=1&query=Campo+addestramento+cinofilo+GCV%2C+Verolanuova)
 
-**Sede Amministrativa** — Via Marconi 28, 25028 Verolanuova (BS).
+{% comment %}
+TODO — il link cerca il campo per nome ("Campo addestramento cinofilo GCV").
+Da provare dal telefono: se Maps non lo trova o apre il posto sbagliato,
+sostituire la query con le coordinate esatte del cancello. Come prenderle:
+tenere premuto sul punto giusto in Google Maps, copiare i due numeri che
+compaiono (es. 45.322,10.075) e metterli al posto di query=Campo+...
+{% endcomment %}
+
+**Sede amministrativa** — Via Marconi 28, 25028 Verolanuova (BS).
+[Apri nelle mappe](https://www.google.com/maps/search/?api=1&query=Via+Marconi+28%2C+25028+Verolanuova+BS)
 
 ## Scrivici
 

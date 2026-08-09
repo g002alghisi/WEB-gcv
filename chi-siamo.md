@@ -70,8 +70,8 @@ allertati.
 | Denominazione | Gruppo Cinofilo Verolese ODV |
 | Codice Fiscale | 97007140177 |
 | Iscrizione Protezione Civile | P 1579/2003 |
-| Sede amministrativa | Via Marconi 28, 25028 Verolanuova (BS) |
-| Campo di addestramento | Località Ponte della Luna, Verolanuova (BS) |
+| Sede amministrativa | [Via Marconi 28, 25028 Verolanuova (BS)](https://www.google.com/maps/search/?api=1&query=Via+Marconi+28%2C+25028+Verolanuova+BS) |
+| Campo di addestramento | [Località Ponte della Luna, Verolanuova (BS)](https://www.google.com/maps/search/?api=1&query=Campo+addestramento+cinofilo+GCV%2C+Verolanuova) |
 
 {% comment %}
 TODO — trasparenza. Lo statuto esiste ma non e' nelle nostre mani:

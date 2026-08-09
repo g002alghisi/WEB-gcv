@@ -24,6 +24,11 @@ in `_config.yml`.
 
 - [ ] **Educazione di base:** come funzionano i corsi, ogni quanto, dove, costi o
       quota associativa, a chi ci si rivolge per iscriversi.
+- [ ] **Provare dal telefono il link alle mappe del campo.** Ora cerca il posto
+      per nome, "Campo addestramento cinofilo GCV". Se Maps non lo trova o apre
+      il punto sbagliato, servono le coordinate del cancello: tenere premuto sul
+      punto giusto in Google Maps, copiare i due numeri e sostituirli nei link
+      in `contatti.md` e `chi-siamo.md`.
 - [ ] **Giorni e orari di ritrovo al campo.** È il dato più utile per chi vuole
       venire a conoscerci. → pagina *Vieni a trovarci*.
 - [ ] **Incontri nelle scuole:** quali scuole, cosa si fa durante un incontro,
