@@ -1,57 +1,67 @@
 ---
 layout: page
 title: Chi siamo
-subtitle: Un gruppo di volontari e di cani, a Verolanuova dal 2000
+subtitle: Volontari e cani, a Verolanuova dal 2000
 permalink: /chi-siamo/
 ---
 
-## La nostra storia
+## Come siamo nati
 
-Il Gruppo Cinofilo Verolese nasce a Verolanuova nel 2000 come gruppo di
-volontariato. Da ottobre 2018 è diventato ufficialmente **Gruppo Cinofilo
-Verolese ODV**, organizzazione di volontariato.
+Il Gruppo Cinofilo Verolese è nato a Verolanuova nel 2000, da un gruppo di
+persone che avevano in comune la passione per i cani e la voglia di mettere quel
+tempo al servizio di qualcuno. Nel 2018 siamo diventati un'organizzazione di
+volontariato — Gruppo Cinofilo Verolese ODV — e dal 2003 facciamo parte del
+gruppo comunale di Protezione Civile di Verolanuova.
 
-Siamo appassionati di cani, e lavoriamo con unità cinofile specializzate nella
-**ricerca di persone disperse in superficie**.
-
-Siamo un **gruppo comunale di Protezione Civile**, iscritto dal 2003: operiamo
-quindi all'interno del sistema di protezione civile del Comune di Verolanuova.
-
-## La nostra missione
-
-La nostra missione è principalmente **umanitaria**. Ci occupiamo della formazione
-e della gestione delle unità cinofile, facendo da ponte tra le istituzioni e le
-organizzazioni che hanno bisogno di assistenza nella ricerca di persone in
-situazioni di emergenza. Lavoriamo perché il servizio di volontariato sia
-organizzato al meglio, e la risposta rapida ed efficace.
-
-Oltre agli interventi in emergenza partecipiamo a **esercitazioni** su scala
-nazionale e provinciale, mettendo sempre al centro l'organizzazione e la pratica.
+Quello che facciamo, in due parole: addestriamo cani e conduttori a cercare
+persone dispersi in superficie, e li teniamo pronti per quando servono.
 
 {% comment %}
 TODO — numeri del gruppo. Servono per dare la misura a chi non ci conosce:
 - quanti volontari siamo (nel gruppo WhatsApp siamo circa 20, ma serve il dato
   vero, non quello della chat)
-- quante unita' cinofile e quanti cani operativi
-- quanti cani in addestramento
+- quante unita' cinofile, quanti cani operativi, quanti in addestramento
 - da quando esiste il campo del Ponte della Luna
-Quando arrivano i numeri, questa sezione diventa un paragrafo "Il gruppo oggi".
+- ogni quanto ci si ritrova ad addestrare
+Con questi dati si scrive qui un breve paragrafo "Il gruppo oggi", che e' la
+cosa che piu' di tutte fa capire chi siamo a chi non ci conosce.
 {% endcomment %}
+
+## Il lavoro con il cane
+
+Un'unità cinofila è un cane e la persona che lo conduce, che imparano a lavorare
+insieme. Non è qualcosa che si improvvisa: ci vogliono anni di addestramento
+costante, e la parte più lunga riguarda il conduttore, non il cane.
+
+Quando qualcuno scompare — un anziano che si è allontanato da casa, una persona
+che non è rientrata da un'escursione — le squadre vengono attivate dalle
+autorità, e i cani cercano tracce dove le persone non arrivano: nei campi, nei
+boschi, lungo i fossi, di notte.
+
+Fra un'emergenza e l'altra ci si allena. Partecipiamo a esercitazioni provinciali
+e nazionali, che servono a provare sul serio quello che in campo si prova a
+freddo: i tempi, le comunicazioni, il coordinamento con le altre squadre.
 
 ## Non solo ricerca
 
-Il lavoro operativo è una parte di quello che facciamo. Ci occupiamo anche di:
+Il lavoro operativo è una parte di quello che facciamo, e non la sola.
 
-- **incontri di educazione comportamentale di base**, perché un cane educato è un
-  cane felice;
-- **incontri nelle scuole** con insegnanti e alunni, per diffondere la cultura
-  del rispetto e dell'amore per i nostri amici a quattro zampe.
+Teniamo incontri di educazione di base per i cani di chiunque voglia
+parteciparvi: un cane che sa stare al mondo vive meglio, e vive meglio anche chi
+gli sta intorno. È anche il modo in cui la maggior parte di noi ha conosciuto
+questo gruppo.
 
-## Se hai bisogno di noi adesso
+Andiamo nelle scuole, con gli insegnanti e i bambini, a raccontare come ci si
+avvicina a un cane, come lo si rispetta e cosa un cane capisce di noi.
 
-Le unità cinofile **non si attivano contattando direttamente il gruppo**. In caso
-di persona scomparsa chiama il **112**: sono le autorità e la Protezione Civile
-ad attivare le squadre di ricerca.
+E chi ha voglia di vedere da vicino cosa vuol dire lavorare con un cane può
+semplicemente venire a trovarci al campo.
+
+## Se stai cercando una persona scomparsa
+
+Le squadre cinofile non si attivano chiamando noi. Chiama il **112**: sono le
+autorità e la Protezione Civile a far partire le ricerche, e a quel punto veniamo
+allertati.
 
 ## Dati dell'associazione
 

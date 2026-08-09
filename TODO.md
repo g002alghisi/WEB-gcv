@@ -41,6 +41,12 @@ in `_config.yml`.
 - [ ] **Loghi** di eventuali sponsor, convenzioni o patrocini del Comune.
 - [ ] **Versione semplificata dello stemma** per gli usi molto piccoli (favicon):
       a 16 pixel lo stemma completo diventa una macchia verde.
+- [ ] **Togliere lo sfondo bianco dallo stemma vettoriale.** In
+      `assets/images/logo/gcv-vettoriale.svg` il quadrato dietro al cerchio è
+      bianco pieno: si vedono quattro angoli bianchi appena il logo finisce su
+      un fondo colorato (navbar, hero, footer). Serve renderlo trasparente
+      lasciando bianche solo le zone interne al disegno — musi, muso del cane,
+      viso. Da fare in Inkscape sul tracciato bianco, oppure ritracciando.
 
 ## Raccolta fondi
 
