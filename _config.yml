@@ -20,6 +20,7 @@ social:
 # Files and folders kept out of the generated site
 exclude:
   - old/
+  - TODO.md
   - Gemfile
   - Gemfile.lock
   - README.md
