@@ -9,6 +9,9 @@ baseurl: ""
 
 theme: bulma-clean-theme
 
+# Icon shown in the browser tab and in bookmarks
+favicon: /assets/images/favicon.png
+
 # Social profiles: the theme renders icon buttons in the footer
 social:
   facebook: https://www.facebook.com/people/Gruppo-Cinofilo-Verolese/61557456284030/
