@@ -1,0 +1,12 @@
+title: Gruppo Cinofilo Verolese
+description: Organizzazione di Volontariato
+lang: it
+
+theme: bulma-clean-theme
+
+# Cartelle da NON copiare nel sito generato
+exclude:
+  - old/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
