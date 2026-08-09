@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chi siamo
-subtitle: Volontari e cani, a Verolanuova dal 2000
+subtitle: Unità cinofile per la ricerca di persone disperse
 permalink: /chi-siamo/
 ---
 
