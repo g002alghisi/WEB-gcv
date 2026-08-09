@@ -7,7 +7,7 @@ _site/
 # ---------- Ruby / Bundler ----------
 .bundle/
 vendor/
-Gemfile.lock
+# Gemfile.lock NON e' ignorato: fissa le versioni usate anche dalla build di GitHub
 
 # ---------- Sistema operativo ----------
 .DS_Store
