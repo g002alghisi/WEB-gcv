@@ -1,0 +1,48 @@
+---
+# This empty front matter tells Jekyll to process the file through Sass.
+---
+
+// ---------------------------------------------------------------
+// Colour palette, derived from the association's badge.
+// The badge green (#86A88A) only reaches 2.6:1 against white, so it
+// is never used behind text; darker relatives are used instead.
+// Contrast ratios against white are noted per colour.
+// ---------------------------------------------------------------
+
+$badge-green: #86a88a; // decorative only: borders, dividers, flat areas
+$badge-ink: #1e241f; // near-black from the badge outlines
+
+$primary: #3e6b49; // 6.17:1 - navbar, hero, buttons
+$link: #2f6b5e; // 6.20:1 - deliberately bluer than $primary so
+// links stay distinguishable from headings
+$dark: $badge-ink; // 15.8:1 - footer and strong headings
+$light: #e8eee9; // tinted background for alternating sections
+
+// Overriding the theme's own default, which is a blue
+$primary-invert: #ffffff;
+
+// Pull in the theme stylesheet, which imports Bulma after these values
+@import "main";
+
+// ---------------------------------------------------------------
+// Small adjustments on top of the theme
+// ---------------------------------------------------------------
+
+// Footer picks up the badge's near-black instead of Bulma's grey
+.footer {
+    background-color: $badge-ink;
+
+    &,
+    p,
+    .content {
+        color: #e8eee9;
+    }
+
+    a {
+        color: $badge-green;
+
+        &:hover {
+            color: #ffffff;
+        }
+    }
+}
