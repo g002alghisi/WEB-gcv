@@ -22,8 +22,17 @@ in `_config.yml`.
 
 ## Per le pagine successive
 
-- [ ] **Educazione di base:** come funzionano i corsi, ogni quanto, dove, costi o
-      quota associativa, a chi ci si rivolge per iscriversi.
+- [ ] **Numero di telefono pubblicabile?** Sulla pagina *Educazione di base* c'è
+      solo mail e social. Chi vuole sapere se sabato ci siete non scrive una
+      mail. Serve un recapito del gruppo — non il cellulare personale di
+      qualcuno, a meno che quella persona sia d'accordo.
+- [ ] **Come descrivere chi tiene gli incontri**, ora che il gruppo non ha più le
+      qualifiche UCIS. Per ora la pagina non parla di istruttori: meglio il
+      silenzio di un'imprecisione su titoli e qualifiche.
+- [ ] **Inquadramento della parte economica** dell'educazione di base: quota
+      associativa, rimborso spese o corrispettivo? Da chiarire anche a livello
+      fiscale, visto che si tratta di attività verso non soci. Finché non è
+      chiaro, la pagina rimanda a un contatto diretto.
 - [ ] **Provare dal telefono il link alle mappe del campo.** Ora cerca il posto
       per nome, "Campo addestramento cinofilo GCV". Se Maps non lo trova o apre
       il punto sbagliato, servono le coordinate del cancello: tenere premuto sul
@@ -35,6 +44,17 @@ in `_config.yml`.
       come una scuola può richiederlo.
 - [ ] **Ricerca ed esercitazioni:** come si svolge una ricerca, che addestramento
       c'è dietro, a quali esercitazioni avete partecipato.
+
+## Presenza su Google
+
+- [ ] **Rivendicare la scheda del campo su Google Maps.** Finché non è
+      rivendicata, chiunque può proporre modifiche a nome, posizione e orari
+      senza chiedercelo. Rivendicandola decidiamo noi: segnaposto corretto,
+      orari, foto, link al sito. Da fare da un account Google del gruppo, non
+      personale. La verifica arriva di solito con una cartolina: meglio usare
+      la sede di Via Marconi 28 che il campo. Da valutare prima in gruppo,
+      perché apre anche alle recensioni pubbliche, che non si possono
+      disattivare.
 
 ## Materiali
 

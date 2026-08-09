@@ -1,5 +1,11 @@
 - name: Chi siamo
   link: /chi-siamo/
 
+- name: Cosa facciamo
+  link: /cosa-facciamo/
+  dropdown:
+    - name: Educazione di base
+      link: /cosa-facciamo/educazione-di-base/
+
 - name: Contatti
   link: /contatti/
