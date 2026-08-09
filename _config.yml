@@ -2,15 +2,20 @@ title: Gruppo Cinofilo Verolese
 description: Organizzazione di Volontariato
 lang: it
 
-# Indirizzo del sito online.
-# baseurl = la sottocartella, perche' e' un "project site".
-# Quando collegheremo gruppocinofiloverolese.it, baseurl andra' svuotato.
+# Public address of the site.
+# baseurl = the subfolder, because this is a GitHub "project site".
+# Clear baseurl once the custom domain gruppocinofiloverolese.it is wired up.
 url: https://g002alghisi.github.io
 baseurl: /WEB-gcv
 
 theme: bulma-clean-theme
 
-# Cartelle da NON copiare nel sito generato
+# Social profiles: the theme renders icon buttons in the footer
+social:
+  facebook: https://www.facebook.com/people/Gruppo-Cinofilo-Verolese/61557456284030/
+  instagram: https://www.instagram.com/gruppocinofiloverolese_/
+
+# Files and folders kept out of the generated site
 exclude:
   - old/
   - Gemfile

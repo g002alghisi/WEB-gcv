@@ -7,9 +7,9 @@ _site/
 # ---------- Ruby / Bundler ----------
 .bundle/
 vendor/
-# Gemfile.lock NON e' ignorato: fissa le versioni usate anche dalla build di GitHub
+# Gemfile.lock is intentionally tracked: it pins the versions GitHub builds with
 
-# ---------- Sistema operativo ----------
+# ---------- Operating system ----------
 .DS_Store
 .DS_Store?
 ._*
@@ -19,7 +19,7 @@ Thumbs.db
 ehthumbs.db
 desktop.ini
 
-# ---------- Editor / IDE ----------
+# ---------- Editors / IDEs ----------
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
@@ -28,7 +28,7 @@ desktop.ini
 *.swo
 *~
 
-# ---------- Segreti ----------
+# ---------- Secrets ----------
 .env
 .env.*
 !.env.example
@@ -36,7 +36,7 @@ desktop.ini
 *.key
 secrets.yml
 
-# ---------- Agenti: istruzioni locali ----------
+# ---------- Agents: local instructions ----------
 CLAUDE.md
 AGENTS.md
 .claude/

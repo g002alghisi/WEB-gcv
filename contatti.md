@@ -21,6 +21,7 @@ indicazioni segnaletiche.
 ## Social
 
 - [Pagina Facebook](https://www.facebook.com/people/Gruppo-Cinofilo-Verolese/61557456284030/)
+- [Profilo Instagram](https://www.instagram.com/gruppocinofiloverolese_/)
 
 ## Dati dell'associazione
 
