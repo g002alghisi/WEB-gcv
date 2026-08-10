@@ -4,6 +4,8 @@
 - name: Cosa facciamo
   link: /cosa-facciamo/
   dropdown:
+    - name: Ricerca ed esercitazioni
+      link: /cosa-facciamo/ricerca/
     - name: Educazione di base
       link: /cosa-facciamo/educazione-di-base/
 

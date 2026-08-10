@@ -5,10 +5,19 @@ subtitle: Incontri per te e il tuo cane, al campo del Ponte della Luna
 permalink: /cosa-facciamo/educazione-di-base/
 ---
 
-Al campo ci troviamo per lavorare con i nostri cani, e le porte sono aperte a
-chiunque voglia farlo con il proprio. Non serve avere un cane da ricerca, né
-l'idea di diventare volontari: si viene per imparare a stare insieme al proprio
-cane, e già questo è parecchio.
+Al campo convivono due cose diverse.
+
+Da una parte ci siamo noi volontari, che addestriamo le nostre unità cinofile per
+la ricerca di persone disperse: quello lo chiamiamo **lavoro**, ed è un percorso
+lungo, che richiede impegno costante.
+
+Dall'altra c'è l'**educazione di base**, aperta a chiunque voglia venire con il
+proprio cane. È il punto di partenza: si impara a stare insieme, a farsi capire,
+a fidarsi l'uno dell'altro. Non serve avere un cane adatto alla ricerca, né
+l'idea di diventare volontari.
+
+Sono due percorsi distinti, che però passano dallo stesso campo, negli stessi
+pomeriggi — e a un certo punto si sfiorano.
 
 {% comment %}
 Le foto, quando ci saranno, vanno una per sezione, subito sotto il titolo del
@@ -30,6 +39,15 @@ guinzaglio senza tirare, fermarsi, tornare quando si viene chiamati.
 E c'è quella che noi chiamiamo la **palestra**: ostacoli da saltare, il tubo da
 attraversare, percorsi da affrontare insieme. Gli esercizi vengono calibrati sul
 singolo cane — un cucciolo non salta, per non rovinargli le anche in crescita.
+
+E poi, prima o poi, si prova a **cercare**. Anche chi viene solo per l'educazione
+di base: qualcuno si nasconde, il cane parte a naso basso e lo trova.
+
+Non è un anticipo del lavoro di ricerca, è qualcosa che serve al cane. Un cane è
+fatto per annusare, e cercare è la cosa che gli somiglia di più — una caccia
+simulata, in cui fa esattamente quello per cui è nato. Vederli tornare dopo aver
+trovato qualcuno, con quell'aria lì, è una delle cose più belle del campo. E per
+il rapporto con chi lo conduce vale più di dieci esercizi di condotta.
 
 Su tutto questo vale una cosa sola, ed è il motivo per cui lo facciamo: **lo
 scopo non è insegnare al cane a obbedire, è costruire il rapporto tra il cane e

@@ -42,8 +42,24 @@ in `_config.yml`.
       venire a conoscerci. → pagina *Vieni a trovarci*.
 - [ ] **Incontri nelle scuole:** quali scuole, cosa si fa durante un incontro,
       come una scuola può richiederlo.
-- [ ] **Ricerca ed esercitazioni:** come si svolge una ricerca, che addestramento
-      c'è dietro, a quali esercitazioni avete partecipato.
+
+## Pagina Ricerca ed esercitazioni
+
+- [ ] **Rileggere il blocco "Come si svolge una ricerca".** È ricostruito, non è
+      il vostro protocollo: chi attiva le squadre, con che tempi di uscita, chi
+      assegna i settori. Da correggere con chi conosce il regolamento di
+      protezione civile.
+- [x] ~~Nome esatto delle tecniche di ricerca~~ → è la ricerca in superficie,
+      *a scovo*, in tedesco *Flächensuche*: scritto e collegato a Wikipedia.
+- [x] ~~Affiliazione IRO/FCI~~ → no: IRO è un brevetto di alto livello che il
+      gruppo non ha. La pagina non cita enti né certificazioni, e non deve.
+- [ ] **Campo macerie di Ghedi:** link al loro sito e ai loro social.
+- [ ] **Nomi degli esami** e dell'ente che li rilascia oggi, dopo l'uscita da
+      UCIS. Ora la pagina dice solo "esami".
+- [ ] **Due o tre esercitazioni concrete:** dove, quando, con chi. Sono quello
+      che rende credibile tutto il paragrafo sulle esercitazioni.
+- [ ] **Quante unità operative siamo.** Per ora l'argomento è evitato: meglio
+      tacere che dare un numero sbagliato.
 
 ## Presenza su Google
 
