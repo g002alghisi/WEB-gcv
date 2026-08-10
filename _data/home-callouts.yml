@@ -1,0 +1,26 @@
+# Three cards under the homepage hero. Icons are Font Awesome 6 names:
+# the theme already loads the library, so no image files are needed.
+style: is-light
+height: is-small
+
+items:
+  - title: Ricerca ed esercitazioni
+    subtitle: Il nostro lavoro
+    icon: fa-magnifying-glass
+    description: Addestriamo cani e conduttori a cercare persone disperse, e ci teniamo pronti per quando servono.
+    call_to_action_name: Come lavoriamo
+    call_to_action_link: /cosa-facciamo/ricerca/
+
+  - title: Educazione di base
+    subtitle: Con il tuo cane
+    icon: fa-dog
+    description: Il campo è aperto a chiunque voglia venire col proprio cane. È il punto di partenza, ed è da lì che quasi tutti noi siamo passati.
+    call_to_action_name: Vieni al campo
+    call_to_action_link: /cosa-facciamo/educazione-di-base/
+
+  - title: Nelle scuole
+    subtitle: Con i bambini
+    icon: fa-school
+    description: Passiamo una mattinata con i bambini e con i nostri cani, per imparare come ci si comporta con un cane.
+    call_to_action_name: Gli incontri
+    call_to_action_link: /cosa-facciamo/scuole/

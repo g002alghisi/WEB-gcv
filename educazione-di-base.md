@@ -115,10 +115,10 @@ Molti di noi, del resto, hanno conosciuto questo gruppo proprio così.
 
 ## Scrivici
 
-Il modo più semplice per prendere contatto è
-[scriverci una mail](mailto:gcverolese@libero.it), o mandarci un messaggio sulla
-[pagina Facebook](https://www.facebook.com/people/Gruppo-Cinofilo-Verolese/61557456284030/)
-o su [Instagram](https://www.instagram.com/gruppocinofiloverolese_/).
+Il modo più semplice per prendere contatto è scriverci una mail, o mandarci un
+messaggio sui social.
+
+Trovi tutti i recapiti nella [pagina dei contatti](/contatti/).
 
 {% comment %}
 TODO — vedi TODO.md:
