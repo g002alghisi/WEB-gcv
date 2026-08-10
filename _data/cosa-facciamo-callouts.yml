@@ -1,0 +1,27 @@
+# The three cards on /cosa-facciamo/: one per activity. This is the page where
+# the visitor chooses, so the cards live here rather than on the homepage.
+# Icons are Font Awesome 6 names; the theme already loads the library.
+style: is-light
+height: is-small
+
+items:
+  - title: Ricerca ed esercitazioni
+    subtitle: Il nostro lavoro
+    icon: fa-magnifying-glass
+    description: Come fa un cane a trovare una persona che si è persa, e quanto tempo ci vuole per costruire un'unità cinofila.
+    call_to_action_name: Come lavoriamo
+    call_to_action_link: /cosa-facciamo/ricerca/
+
+  - title: Educazione di base
+    subtitle: Con il tuo cane
+    icon: fa-dog
+    description: Il campo è aperto a chiunque voglia venire col proprio cane, il sabato pomeriggio. È il punto di partenza.
+    call_to_action_name: Vieni al campo
+    call_to_action_link: /cosa-facciamo/educazione-di-base/
+
+  - title: Nelle scuole
+    subtitle: Con i bambini
+    icon: fa-school
+    description: Passiamo una mattinata con i bambini e con i nostri cani, nel cortile della scuola.
+    call_to_action_name: Gli incontri
+    call_to_action_link: /cosa-facciamo/scuole/

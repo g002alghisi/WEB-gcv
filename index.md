@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
 title: Gruppo Cinofilo Verolese
 subtitle: Volontari e cani per la ricerca di persone disperse. A Verolanuova dal 2000.
-callouts: home-callouts
 ---
 
 ## Chi siamo
@@ -11,9 +10,9 @@ Siamo un gruppo di volontari di Verolanuova, e un gruppo comunale di Protezione
 Civile. Addestriamo unità cinofile — un cane e la persona che lo conduce — per la
 ricerca di persone disperse, e le teniamo pronte per quando c'è bisogno.
 
-Al campo del Ponte della Luna ci troviamo il sabato pomeriggio. Insieme al nostro
+Ci troviamo al campo del Ponte della Luna il sabato pomeriggio. Insieme al nostro
 lavoro portiamo avanti gli incontri di educazione di base, aperti a chiunque
-voglia venire con il proprio cane, e gli incontri nelle scuole.
+voglia venire con il proprio cane, e gli incontri nelle scuole con i bambini.
 
 [Conosci il gruppo](/chi-siamo/) · [Cosa facciamo](/cosa-facciamo/)
 
@@ -35,11 +34,14 @@ vedere com'è.
 [Scrivici](/contatti/) per accordarci sul giorno.
 
 {% comment %}
-TODO — homepage:
-- appena ci sono le fotografie, quella giusta va come sfondo dell'hero:
-  hero_image: /assets/images/nome-file.jpg  nel front matter qui sopra.
-  Serve un'immagine larga (almeno 1600px) e con spazio libero al centro, perche'
-  titolo e sottotitolo ci vanno sopra.
-- quando esisteranno le pagine Attivita' e Sostienici (5x1000), aggiungere qui
-  un richiamo: il codice fiscale conviene averlo raggiungibile dalla home.
+TODO — homepage. Con questa impostazione la home racconta "chi siamo e cosa
+succede adesso", e il posto della scelta e' /cosa-facciamo/. Restano da
+aggiungere, quando ci sara' il materiale:
+- gli ultimi post delle attivita', appena la sezione esiste. Il tema li mostra
+  in colonna aggiungendo  show_sidebar: true  nel front matter qui sopra.
+- la fotografia di sfondo dell'hero:  hero_image: /assets/images/nome.jpg
+  Serve larga almeno 1600px e con spazio libero al centro, perche' titolo e
+  sottotitolo ci vanno sopra.
+- un richiamo al 5x1000 col codice fiscale, quando esistera' la pagina
+  Sostienici.
 {% endcomment %}

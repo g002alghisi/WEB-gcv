@@ -21,6 +21,7 @@ social:
 exclude:
   - old/
   - TODO.md
+  - STRUTTURA.md
   - Gemfile
   - Gemfile.lock
   - README.md
