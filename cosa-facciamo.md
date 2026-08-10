@@ -36,14 +36,11 @@ nasce la curiosità di provare il lavoro di ricerca, c'è tempo per parlarne.
 
 ## Nelle scuole
 
-Andiamo nelle scuole, con gli insegnanti e i bambini, a raccontare come ci si
-avvicina a un cane, come lo si rispetta, e cosa un cane capisce di noi.
+Andiamo nelle scuole dell'infanzia e nelle primarie a passare una mattinata con i
+bambini e con i nostri cani: si racconta cosa facciamo, si fa vedere qualche
+ricerchina, e si impara come ci si comporta con un cane.
 
-{% comment %}
-TODO — pagina dedicata /cosa-facciamo/scuole/. Serve sapere: per quali eta',
-cosa si fa durante un incontro, e soprattutto come una scuola puo' richiederlo.
-E' la pagina che leggera' un insegnante: deve trovarci un'indicazione pratica.
-{% endcomment %}
+[Gli incontri nelle scuole](/cosa-facciamo/scuole/)
 
 ## Vieni a vedere
 

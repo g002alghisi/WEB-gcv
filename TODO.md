@@ -40,8 +40,9 @@ in `_config.yml`.
       in `contatti.md` e `chi-siamo.md`.
 - [ ] **Giorni e orari di ritrovo al campo.** È il dato più utile per chi vuole
       venire a conoscerci. → pagina *Vieni a trovarci*.
-- [ ] **Incontri nelle scuole:** quali scuole, cosa si fa durante un incontro,
-      come una scuola può richiederlo.
+- [ ] **Incontri nelle scuole — due dati pratici che mancano:** l'incontro è
+      gratuito? (va detto esplicitamente: un dirigente che valuta un'attività ha
+      bisogno di saperlo) e con quanto anticipo va richiesto?
 
 ## Pagina Ricerca ed esercitazioni
 
@@ -49,8 +50,9 @@ in `_config.yml`.
       il vostro protocollo: chi attiva le squadre, con che tempi di uscita, chi
       assegna i settori. Da correggere con chi conosce il regolamento di
       protezione civile.
-- [x] ~~Nome esatto delle tecniche di ricerca~~ → è la ricerca in superficie,
-      *a scovo*, in tedesco *Flächensuche*: scritto e collegato a Wikipedia.
+- [x] ~~Nome esatto delle tecniche di ricerca~~ → è la ricerca in superficie
+      (*a scovo*, in tedesco *Flächensuche*). Sul sito è descritta a parole,
+      senza nominare tecniche né collegare Wikipedia: scelta voluta.
 - [x] ~~Affiliazione IRO/FCI~~ → no: IRO è un brevetto di alto livello che il
       gruppo non ha. La pagina non cita enti né certificazioni, e non deve.
 - [ ] **Campo macerie di Ghedi:** link al loro sito e ai loro social.
