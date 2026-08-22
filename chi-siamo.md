@@ -62,7 +62,7 @@ semplicemente [venire a trovarci](/contatti/) al campo.
 
 [L'educazione di base](/cosa-facciamo/educazione-di-base/) ·
 [Gli incontri nelle scuole](/cosa-facciamo/scuole/) ·
-[Tutte le attività](/cosa-facciamo/)
+[Tutte le attività](/attivita/)
 
 ## Se stai cercando una persona scomparsa
 

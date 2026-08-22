@@ -2,7 +2,9 @@
 layout: default
 ---
 <div class="content">
-    <p class="has-text-grey">{% include data-italiana.html data=page.date %}{% if page.author %} — {{ page.author }}{% endif %}</p>
+    <p class="has-text-grey">
+        Pubblicato il {% include data-italiana.html data=page.date %}{% if page.author %} da {{ page.author }}{% endif %}
+    </p>
 
     {% if page.series %}
         {% include series.html %}
