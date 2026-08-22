@@ -32,7 +32,7 @@ qualcuno dietro.
 
 ## La ricerca in superficie
 
-È il nostro lavoro principale: cercare persone disperse in ambiente aperto — un
+È il nostro lavoro principale: cercare persone disperse in ambiente aperto. Un
 anziano che si è allontanato da casa, qualcuno che non è rientrato da
 un'escursione. Campi, boschi, rive dei fossi, spesso di notte, spesso col brutto
 tempo.
@@ -43,7 +43,7 @@ intervento per cui più spesso veniamo attivati.
 ## Come si svolge una ricerca
 
 {% comment %}
-TODO — VERIFICARE PRIMA DI PUBBLICARE. Quello che segue e' lo schema generale
+TODO: VERIFICARE PRIMA DI PUBBLICARE. Quello che segue e' lo schema generale
 di un intervento di ricerca, ricostruito, non il protocollo del gruppo. Da
 correggere con chi conosce il regolamento di protezione civile: chi attiva le
 squadre, con che tempi di uscita, chi assegna i settori.
@@ -56,23 +56,23 @@ divide il territorio in **settori**: a ogni squadra ne viene assegnato uno.
 Una squadra è l'unità cinofila più chi la accompagna, per la sicurezza e per i
 collegamenti radio. Il cane lavora **libero, senza guinzaglio**, e batte il
 settore che gli è stato assegnato: non segue le orme lasciate a terra, ma
-l'odore che si sposta nell'aria. Per questo conta molto come soffia il vento — a
+l'odore che si sposta nell'aria. Per questo conta molto come soffia il vento, a
 volte più di come l'area è disegnata sulla mappa. E per questo il nostro cane non
 cerca una persona in particolare: segnala chiunque incontri dentro il settore.
+
+E cerca una persona in qualunque condizione si trovi: cosciente e in grado di
+rispondere, priva di sensi, o purtroppo anche senza vita.
 
 Di modi di cercare ne esistono altri, che partono dall'odore di una persona
 precisa e ne seguono la traccia. Noi di solito non interveniamo così: il modo in
 cui lavoriamo è quello più flessibile, e ci permette di coprire aree grandi anche
 quando delle informazioni di partenza si sa poco.
 
-E cerca una persona in qualunque condizione si trovi: cosciente e in grado di
-rispondere, priva di sensi, o purtroppo anche senza vita.
-
 ## Quando il cane trova qualcuno
 
 Esistono modi diversi di segnalare un ritrovamento, e ogni scuola ha il suo. Il
 cane può tornare dal conduttore e riportarlo sul posto; può afferrare un
-oggetto — un piccolo cilindro che porta al collo — e riportarlo indietro come
+oggetto, un piccolo cilindro che porta al collo, e riportarlo indietro come
 prova; oppure può restare sul posto e abbaiare.
 
 **Noi usiamo l'abbaio.** Il cane resta accanto alla persona che ha trovato e
@@ -94,10 +94,10 @@ Sotto un cumulo di macerie l'odore non arriva dritto: risale attraverso i vuoti
 fra i detriti, e può uscire a metri di distanza da dove la persona si trova
 davvero. Il cane deve seguirlo fin dove si fa più intenso, capire dove sta la
 sorgente e segnalare lì, abbaiando sul punto. Nel frattempo cammina su superfici
-instabili — cemento spezzato, ferri, vetri, lamiere che si muovono sotto le zampe
-— con rumore, polvere e squadre che lavorano intorno.
+instabili, fra cemento spezzato, ferri, vetri e lamiere che si muovono sotto le
+zampe, con rumore, polvere e squadre che lavorano intorno.
 
-Quello che cambia davvero, rispetto alla superficie, è lo scenario — e quindi i
+Quello che cambia davvero, rispetto alla superficie, è lo scenario, e quindi i
 problemi.
 
 In superficie il lavoro chiede al cane di **staccarsi molto dal conduttore**:
@@ -117,7 +117,7 @@ Alcune nostre unità cinofile sono intervenute ad **Amatrice**, con i cani, per 
 ricerca di persone dopo il terremoto del Centro Italia.
 
 {% comment %}
-TODO — su Amatrice: se il gruppo ha date, foto o un ricordo di quei giorni,
+TODO: su Amatrice: se il gruppo ha date, foto o un ricordo di quei giorni,
 questa e' la parte del sito che merita di piu' un racconto in prima persona.
 {% endcomment %}
 
@@ -149,7 +149,7 @@ Il percorso si chiude con degli **esami**: prima la parte di condotta, poi quell
 operativa sulla ricerca. Solo dopo un'unità è considerata operativa.
 
 {% comment %}
-TODO — nomi esatti degli esami e dell'ente che li rilascia oggi, dopo l'uscita
+TODO: nomi esatti degli esami e dell'ente che li rilascia oggi, dopo l'uscita
 da UCIS. Finche' non e' chiaro, la pagina parla di "esami" senza specificare:
 meglio del nome sbagliato di una certificazione.
 {% endcomment %}
@@ -165,7 +165,7 @@ coordinamento con le altre squadre e con gli altri enti.
 quello che si è già fatto tante volte.
 
 {% comment %}
-TODO — qualche esercitazione concreta a cui il gruppo ha partecipato: dove,
+TODO: qualche esercitazione concreta a cui il gruppo ha partecipato: dove,
 quando, con chi. Bastano due o tre esempi recenti; sono la cosa che rende
 credibile tutto il paragrafo qui sopra.
 {% endcomment %}

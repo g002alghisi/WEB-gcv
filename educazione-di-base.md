@@ -17,7 +17,7 @@ a fidarsi l'uno dell'altro. Non serve avere un cane adatto alla ricerca, né
 l'idea di diventare volontari.
 
 Sono due percorsi distinti, che però passano dallo stesso campo, negli stessi
-pomeriggi — e a un certo punto si sfiorano.
+pomeriggi, e a un certo punto si sfiorano.
 
 {% comment %}
 Le foto, quando ci saranno, vanno una per sezione, subito sotto il titolo del
@@ -30,21 +30,21 @@ vuoti o scritte "immagine in arrivo".
 Un incontro dura due o tre ore, e non è una lezione frontale.
 
 Si comincia con la **socializzazione**: i cani giocano insieme, e nel frattempo
-socializziamo anche noi conduttori — che è una parte più importante di quanto
-sembri, perché è lì che ci si scambiano le cose imparate.
+socializziamo anche noi conduttori, che è una parte più importante di quanto
+sembri: è lì che ci si scambiano le cose imparate.
 
 Poi si lavora sui **richiami** e sugli **esercizi di condotta**: camminare al
 guinzaglio senza tirare, fermarsi, tornare quando si viene chiamati.
 
 E c'è quella che noi chiamiamo la **palestra**: ostacoli da saltare, il tubo da
 attraversare, percorsi da affrontare insieme. Gli esercizi vengono calibrati sul
-singolo cane — un cucciolo non salta, per non rovinargli le anche in crescita.
+singolo cane: un cucciolo non salta, per non rovinargli le anche in crescita.
 
 E poi, prima o poi, si prova a **cercare**. Anche chi viene solo per l'educazione
 di base: qualcuno si nasconde, il cane parte a naso basso e lo trova.
 
 Non è un anticipo del lavoro di ricerca, è qualcosa che serve al cane. Un cane è
-fatto per annusare, e cercare è la cosa che gli somiglia di più — una caccia
+fatto per annusare, e cercare è la cosa che gli somiglia di più: una caccia
 simulata, in cui fa esattamente quello per cui è nato. Vederli tornare dopo aver
 trovato qualcuno, con quell'aria lì, è una delle cose più belle del campo. E per
 il rapporto con chi lo conduce vale più di dieci esercizi di condotta.
@@ -80,7 +80,7 @@ dettagli pratici li vediamo insieme.
 
 ## A chi è aperto
 
-A tutti i cani, di qualunque età, taglia e razza — dai cuccioli agli adulti.
+A tutti i cani, di qualunque età, taglia e razza, dai cuccioli agli adulti.
 
 I cani delicati o con problemi di aggressività hanno bisogno di essere gestiti
 con attenzione, e non è detto che il campo sia il posto adatto a ogni situazione.
@@ -96,7 +96,7 @@ Poche cose pratiche, che però contano:
 - **Guinzaglio, sempre.** Al campo ci sono cani che stanno lavorando: il tuo cane
   va tenuto al guinzaglio e lasciato libero solo sotto la nostra supervisione.
 - **Premietti.** I würstel sono sempre ben accolti. Avvisaci se il tuo cane ha
-  **allergie o intolleranze** — al pollo, per esempio — così evitiamo di dargli
+  **allergie o intolleranze**, al pollo per esempio, così evitiamo di dargli
   qualcosa che gli faccia male.
 - **Non arrivare a stomaco pieno.** È importante che il cane abbia digerito prima
   di lavorare: il rischio, sui cani, è la torsione dello stomaco. Al campo poi si
@@ -109,7 +109,7 @@ il resto. La portiamo noi.
 
 Non è un dettaglio: è il momento in cui ci si siede, si parla dei cani, ci si
 racconta com'è andata. Chi passa al campo è sempre il benvenuto anche solo per
-quello — per vedere come lavoriamo, farsi un'idea, conoscerci.
+quello: per vedere come lavoriamo, farsi un'idea, conoscerci.
 
 Molti di noi, del resto, hanno conosciuto questo gruppo proprio così.
 
@@ -121,7 +121,7 @@ messaggio sui social.
 Trovi tutti i recapiti nella [pagina dei contatti](/contatti/).
 
 {% comment %}
-TODO — vedi TODO.md:
+TODO: vedi TODO.md:
 - si puo' pubblicare un numero di telefono? Un recapito rapido servirebbe, la
   mail e' lenta per chi vuole solo sapere se sabato ci siete.
 - come descrivere chi tiene gli incontri, ora che il gruppo non ha piu' le

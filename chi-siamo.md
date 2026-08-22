@@ -10,14 +10,14 @@ permalink: /chi-siamo/
 Il Gruppo Cinofilo Verolese è nato a Verolanuova nel 2000, da un gruppo di
 persone che avevano in comune la passione per i cani e la voglia di mettere quel
 tempo al servizio di qualcuno. Nel 2018 siamo diventati un'organizzazione di
-volontariato — Gruppo Cinofilo Verolese ODV — e dal 2003 facciamo parte del
+volontariato, il Gruppo Cinofilo Verolese ODV, e dal 2003 facciamo parte del
 gruppo comunale di Protezione Civile di Verolanuova.
 
 Quello che facciamo, in due parole: addestriamo cani e conduttori a cercare
 persone dispersi in superficie, e li teniamo pronti per quando servono.
 
 {% comment %}
-TODO — numeri del gruppo. Servono per dare la misura a chi non ci conosce:
+TODO: numeri del gruppo. Servono per dare la misura a chi non ci conosce:
 - quanti volontari siamo (nel gruppo WhatsApp siamo circa 20, ma serve il dato
   vero, non quello della chat)
 - quante unita' cinofile, quanti cani operativi, quanti in addestramento
@@ -33,8 +33,8 @@ Un'unità cinofila è un cane e la persona che lo conduce, che imparano a lavora
 insieme. Non è qualcosa che si improvvisa: ci vogliono anni di addestramento
 costante, e la parte più lunga riguarda il conduttore, non il cane.
 
-Quando qualcuno scompare — un anziano che si è allontanato da casa, una persona
-che non è rientrata da un'escursione — le squadre vengono attivate dalle
+Quando qualcuno scompare, un anziano che si è allontanato da casa o una persona
+che non è rientrata da un'escursione, le squadre vengono attivate dalle
 autorità, e i cani cercano tracce dove le persone non arrivano: nei campi, nei
 boschi, lungo i fossi, di notte.
 
@@ -74,7 +74,7 @@ allertati.
 | Campo di addestramento | [Località Ponte della Luna, Verolanuova (BS)](https://www.google.com/maps/search/?api=1&query=Campo+addestramento+cinofilo+GCV%2C+Verolanuova) |
 
 {% comment %}
-TODO — trasparenza. Lo statuto esiste ma non e' nelle nostre mani:
+TODO: trasparenza. Lo statuto esiste ma non e' nelle nostre mani:
 - farsi dare il PDF dello statuto, metterlo in assets/documenti/ e linkarlo qui
 - verificare l'iscrizione al RUNTS e il numero di repertorio
 - capire se ci sono bilanci o relazioni da pubblicare

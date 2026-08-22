@@ -14,7 +14,7 @@ pomeriggio faremo una **dimostrazione** con i nostri cani, per mostrare che cosa
 significa addestrare un cane alla ricerca di persone.
 
 {% comment %}
-TODO — appena si sanno, aggiungere qui:
+TODO: appena si sanno, aggiungere qui:
 - l'ORARIO di inizio e fine (anche approssimativo: "dal pomeriggio" e' poco)
 - che cosa si fara' esattamente nella dimostrazione. Ora il testo resta sul
   generico perche' il programma non e' ancora deciso.

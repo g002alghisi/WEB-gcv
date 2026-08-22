@@ -8,7 +8,7 @@ in `_config.yml`.
 
 ---
 
-## Urgente — serve per Chi siamo
+## Urgente, serve per Chi siamo
 
 - [x] ~~Inquadramento nella Protezione Civile~~ → confermato: **gruppo comunale**,
       scritto in *Chi siamo*.
@@ -24,7 +24,7 @@ in `_config.yml`.
 
 - [ ] **Numero di telefono pubblicabile?** Sulla pagina *Educazione di base* c'è
       solo mail e social. Chi vuole sapere se sabato ci siete non scrive una
-      mail. Serve un recapito del gruppo — non il cellulare personale di
+      mail. Serve un recapito del gruppo, non il cellulare personale di
       qualcuno, a meno che quella persona sia d'accordo.
 - [ ] **Come descrivere chi tiene gli incontri**, ora che il gruppo non ha più le
       qualifiche UCIS. Per ora la pagina non parla di istruttori: meglio il
@@ -40,7 +40,7 @@ in `_config.yml`.
       in `contatti.md` e `chi-siamo.md`.
 - [ ] **Giorni e orari di ritrovo al campo.** È il dato più utile per chi vuole
       venire a conoscerci. → pagina *Vieni a trovarci*.
-- [ ] **Incontri nelle scuole — due dati pratici che mancano:** l'incontro è
+- [ ] **Incontri nelle scuole, due dati pratici che mancano:** l'incontro è
       gratuito? (va detto esplicitamente: un dirigente che valuta un'attività ha
       bisogno di saperlo) e con quanto anticipo va richiesto?
 
@@ -88,7 +88,7 @@ in `_config.yml`.
       `assets/images/logo/gcv-vettoriale.svg` il quadrato dietro al cerchio è
       bianco pieno: si vedono quattro angoli bianchi appena il logo finisce su
       un fondo colorato (navbar, hero, footer). Serve renderlo trasparente
-      lasciando bianche solo le zone interne al disegno — musi, muso del cane,
+      lasciando bianche solo le zone interne al disegno: i musi dei cani e il
       viso. Da fare in Inkscape sul tracciato bianco, oppure ritracciando.
 
 ## Dimostrazione del 13 settembre
@@ -112,7 +112,7 @@ file ci sono le istruzioni per ogni punto.
 
 - [ ] **5×1000:** testo di presentazione. Il codice fiscale è 97007140177.
 - [ ] **Spiedo annuale:** data, luogo, menù, prezzi, come si prenota e entro
-      quando. Servirà solo nel periodo dell'evento — la pagina si accende e si
+      quando. Servirà solo nel periodo dell'evento, la pagina si accende e si
       spegne da `_config.yml`.
 
 ## Dominio e accessi

@@ -3,7 +3,7 @@
 Appunti di lavoro sulla struttura del sito. Non viene pubblicato.
 
 Il criterio: ogni pagina deve rispondere a **una domanda sola**. Se due pagine
-rispondono alla stessa, una delle due va ripensata — è il problema che abbiamo
+rispondono alla stessa, una delle due va ripensata, è il problema che abbiamo
 incontrato fra la home e *Cosa facciamo*.
 
 ---
@@ -38,8 +38,8 @@ Il nodo aperto. La difficoltà è che deve fare **due cose insieme**:
 1. dire chi siamo, in tre righe, a chi non ci conosce;
 2. smistare le persone verso la pagina che riguarda loro.
 
-L'idea dello smistamento per lettore — *sei un privato? sei una scuola? sei un
-Comune?* — funziona, e va tenuta. Il rischio è la sovrapposizione con *Cosa
+L'idea dello smistamento per lettore, *sei un privato? sei una scuola? sei un
+Comune?*, funziona, e va tenuta. Il rischio è la sovrapposizione con *Cosa
 facciamo*: si evita se le due pagine usano **criteri diversi**.
 
 - la home smista per **chi sei** (privato, insegnante, ente, curioso);
@@ -62,7 +62,7 @@ Ordine ipotizzato per la home:
 ## Lo spiedo
 
 In home va il **richiamo**: locandina, data, una riga di informazioni, e il link
-al post. I dettagli — menù, prezzi, prenotazioni, «posti esauriti» — stanno solo
+al post. I dettagli, menù, prezzi, prenotazioni, «posti esauriti», stanno solo
 nel post, così si aggiornano in un punto solo.
 
 Il tema ha una fascia d'avviso che si accende e si spegne da `_config.yml`: è

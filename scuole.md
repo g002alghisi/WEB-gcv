@@ -22,9 +22,9 @@ cortile della scuola facciamo vedere il lavoro vero: qualche **ricerchina**, con
 un volontario che si nasconde e il cane che lo trova; gli esercizi di **condotta**;
 e un po' di **palestra**, con i cani che affrontano ostacoli e percorsi.
 
-Veniamo di solito in cinque o sei unità cinofile — cinque o sei cani, ciascuno
-con il suo conduttore. Serve perché i bambini possano vedere da vicino senza
-accalcarsi, e perché ogni cane lavori il giusto.
+Veniamo di solito in cinque o sei unità cinofile, cioè cinque o sei cani,
+ciascuno con il suo conduttore. Serve perché i bambini possano vedere da vicino
+senza accalcarsi, e perché ogni cane lavori il giusto.
 
 E poi, naturalmente, i bambini possono **accarezzare i cani**. Sempre sotto la
 nostra sorveglianza, un cane alla volta, con calma.
@@ -44,14 +44,14 @@ l'hanno e non lo avranno mai: prima o poi un cane lo incontreranno per strada.
 
 Insieme a questo passa il resto: il rispetto per gli animali, l'idea che un cane
 non è un giocattolo ma un compagno di lavoro, e un'idea concreta di cosa siano il
-volontariato e la Protezione Civile — raccontati da persone che li fanno, non da
+volontariato e la Protezione Civile, raccontati da persone che li fanno e non da
 un libro.
 
 ## D'estate, al campo
 
 Capita anche il contrario: che siano i ragazzi a venire da noi. Durante l'estate
 i gruppi del grest passano a trovarci al campo, e lì si può far vedere ancora di
-più — lo spazio è nostro, e i cani sono a casa loro.
+più: lo spazio è nostro, e i cani sono a casa loro.
 
 ## Come richiedere un incontro
 
@@ -62,7 +62,7 @@ periodo, gli spazi che avete a disposizione e l'età dei bambini, e si organizza
 Trovi tutti i recapiti nella [pagina dei contatti](/contatti/).
 
 {% comment %}
-TODO — mancano due informazioni pratiche che un insegnante cerca subito:
+TODO: mancano due informazioni pratiche che un insegnante cerca subito:
 - l'incontro e' gratuito? Immagino di si', ma va detto esplicitamente: un
   dirigente che deve valutare un'attivita' ha bisogno di saperlo.
 - con quanto anticipo bisogna chiedere? Anche solo "qualche settimana prima".
