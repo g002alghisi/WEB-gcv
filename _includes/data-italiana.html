@@ -1,0 +1,8 @@
+{%- comment -%}
+Formats a date in Italian, e.g. "13 settembre 2026".
+Jekyll's own date filter only speaks English, so the month is looked up by hand.
+Usage: {% include data-italiana.html data=page.date %}
+{%- endcomment -%}
+{%- assign mesi = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
+{%- assign indice = include.data | date: "%-m" | minus: 1 -%}
+{{- include.data | date: "%-d" }} {{ mesi[indice] }} {{ include.data | date: "%Y" -}}

@@ -17,6 +17,20 @@ social:
   facebook: https://www.facebook.com/people/Gruppo-Cinofilo-Verolese/61557456284030/
   instagram: https://www.instagram.com/gruppocinofiloverolese_/
 
+plugins:
+  - jekyll-paginate
+
+# News section: 6 posts per page, extra pages under /attivita/page2/ and so on
+paginate: 6
+paginate_path: "/attivita/page:num/"
+
+# Temporary banner shown on the homepage. Comment out the whole block to
+# switch it off — nothing else needs touching.
+avviso:
+  testo: "**Sabato 13 settembre siamo in piazza Libertà a Verolanuova** con una dimostrazione delle nostre unità cinofile e una vendita di torte fatte in casa."
+  link: /attivita/dimostrazione-in-piazza/
+  link_testo: Tutti i dettagli
+
 # Files and folders kept out of the generated site
 exclude:
   - old/
