@@ -91,11 +91,15 @@ in `_config.yml`.
       lasciando bianche solo le zone interne al disegno: i musi dei cani e il
       viso. Da fare in Inkscape sul tracciato bianco, oppure ritracciando.
 
-## Dimostrazione del 13 settembre
+## Dimostrazione del 13 settembre 2026
 
-Il post è già online: `_posts/2026-08-10-dimostrazione-in-piazza.md`. Dentro al
+Il post è già online: `_posts/2026-08-10-dimostrazione-verolanuova.md`. Dentro al
 file ci sono le istruzioni per ogni punto.
 
+- [ ] **CONFERMARE GIORNO E DATA.** Il messaggio sul gruppo diceva "13 settembre"
+      senza giorno della settimana: il 13 settembre 2026 è una **domenica**. Se
+      l'intenzione era un sabato, la data giusta sarebbe il 12. Da chiarire prima
+      di diffondere il link.
 - [ ] **Orario** di inizio e fine, anche approssimativo. Ora il post non lo dice.
 - [ ] **Cosa si farà nella dimostrazione.** Il testo resta sul generico finché il
       programma non è deciso.

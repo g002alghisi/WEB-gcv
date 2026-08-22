@@ -36,29 +36,29 @@ $primary-invert: #ffffff;
     border-top: 2px solid $badge-green;
 }
 
-// Share buttons in each platform's own colour, so they are recognised at a
-// glance. WhatsApp keeps its real green: a white icon on it would only reach
-// 1.98:1, so the icon is dark green instead — 6.14:1, and the colour stays
-// authentic.
+// Share buttons in each platform's own brand colour, white icon on top, the
+// way both apps draw them. Note the WhatsApp pairing is decorative rather than
+// accessible: white on #25D366 measures 1.98:1, under the 3:1 wanted for
+// graphics. Kept on purpose, because brand recognition wins here.
 .button {
     &.is-whatsapp {
         background-color: #25d366; // real WhatsApp green
-        color: #0a3d31; // 6.14:1 against the green
-
-        &:hover,
-        &:focus {
-            background-color: #1eb955;
-            color: #0a3d31;
-        }
-    }
-
-    &.is-facebook {
-        background-color: #1877f2; // 4.23:1
         color: #ffffff;
 
         &:hover,
         &:focus {
-            background-color: #0c63d4;
+            background-color: #1eb955;
+            color: #ffffff;
+        }
+    }
+
+    &.is-facebook {
+        background-color: #0866ff; // current Facebook blue, 4.82:1
+        color: #ffffff;
+
+        &:hover,
+        &:focus {
+            background-color: #0055db;
             color: #ffffff;
         }
     }

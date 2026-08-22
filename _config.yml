@@ -27,8 +27,8 @@ paginate_path: "/attivita/page:num/"
 # Temporary banner shown on the homepage. Comment out the whole block to
 # switch it off — nothing else needs touching.
 avviso:
-  testo: "**Sabato 13 settembre siamo in piazza Libertà a Verolanuova** con una dimostrazione delle nostre unità cinofile e una vendita di torte fatte in casa."
-  link: /attivita/dimostrazione-in-piazza/
+  testo: "**Domenica 13 settembre 2026 siamo in piazza Libertà a Verolanuova** con una dimostrazione delle nostre unità cinofile e una vendita di torte fatte in casa."
+  link: /attivita/dimostrazione-verolanuova-2026/
   link_testo: Tutti i dettagli
 
 # Files and folders kept out of the generated site

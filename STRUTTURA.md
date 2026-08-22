@@ -31,6 +31,37 @@ incontrato fra la home e *Cosa facciamo*.
 
 ---
 
+## Come funzionano i post
+
+Ogni notizia, evento o articolo di giornale è **un file** dentro `_posts/`.
+La pagina `/attivita/` non contiene link scritti a mano: elenca da sola tutti i
+file che trova, dal più recente al più vecchio. Si aggiunge un file, l'elenco si
+aggiorna.
+
+**Il nome del file** deve seguire il formato `AAAA-MM-GG-titolo.md`, con la data
+di *pubblicazione*. È obbligatorio: senza data Jekyll non lo riconosce come post.
+
+**L'indirizzo della pagina** è invece una scelta nostra, e si scrive nella riga
+`permalink:` del post. La convenzione adottata è:
+
+```
+/attivita/evento-posto-anno/
+```
+
+per esempio `/attivita/dimostrazione-verolanuova-2026/`.
+
+Tre pezzi, sempre in quest'ordine: **che cosa** è (dimostrazione, esercitazione,
+spiedo, incontro), **dove** si è svolto, **in che anno**.
+
+Perché il posto e l'anno: le iniziative si ripetono, e la stessa cosa si fa in
+paesi diversi. Senza quei due pezzi la dimostrazione del 2027, o quella in un
+altro Comune, non potrebbe avere un indirizzo suo. Così ogni edizione resta
+consultabile e si capisce di cosa si tratta già dall'indirizzo.
+
+Da ricordare: **posto e anno vanno scritti a mano** ogni volta che si crea un
+post. Se ci si dimentica il sito funziona lo stesso, ma prima o poi ci si trova
+con un conflitto da risolvere.
+
 ## La home
 
 Il nodo aperto. La difficoltà è che deve fare **due cose insieme**:

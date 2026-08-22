@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Sabato 13 settembre siamo in piazza a Verolanuova"
+title: "Domenica 13 settembre 2026 siamo in piazza a Verolanuova"
 subtitle: Una dimostrazione delle nostre unità cinofile
-permalink: /attivita/dimostrazione-in-piazza/
-summary: Sabato 13 settembre saremo in piazza Libertà con i nostri cani per una dimostrazione aperta a tutti, e con una vendita di torte fatte in casa per sostenere le attività del gruppo.
+permalink: /attivita/dimostrazione-verolanuova-2026/
+summary: Domenica 13 settembre 2026 saremo in piazza Libertà con i nostri cani per una dimostrazione aperta a tutti, e con una vendita di torte fatte in casa per sostenere le attività del gruppo.
 ---
 
-Sabato **13 settembre** saremo in **piazza Libertà a Verolanuova** con i nostri
+Domenica **13 settembre 2026** saremo in **piazza Libertà a Verolanuova** con i nostri
 cani.
 
 Sarà l'occasione per vedere da vicino come lavorano le unità cinofile: durante il
