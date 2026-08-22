@@ -40,14 +40,21 @@ versione orizzontale, l'anteprima viene meglio.
 
 ## Le torte
 
-In piazza allestiremo il nostro gazebo, con un banchetto di **torte fatte in
-casa** preparate dai volontari del gruppo.
+In piazza allestiremo il nostro gazebo con un banchetto di **torte fatte in
+casa**, preparate dai volontari del gruppo e **messe in vendita** per raccogliere
+fondi.
 
 Il ricavato serve a sostenere le attività del gruppo. Siamo un'organizzazione di
 volontariato, e le spese del campo, dell'attrezzatura e dell'addestramento le
 copriamo con iniziative come questa.
 
-Comprare una fetta di torta è il modo più semplice per darci una mano.
+Passare dal banchetto e comprarne una è il modo più semplice per darci una mano.
+
+{% comment %}
+TODO: si vendono torte intere o a fette? E a che prezzo, o a offerta libera?
+Il testo per ora non lo dice. Se il prezzo e' deciso prima dell'evento, vale la
+pena scriverlo: la gente si avvicina piu' volentieri se sa quanto costa.
+{% endcomment %}
 
 ## Dove
 

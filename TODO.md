@@ -120,6 +120,9 @@ file ci sono le istruzioni per ogni punto.
       l'intenzione era un sabato, la data giusta sarebbe il 12. Da chiarire prima
       di diffondere il link.
 - [ ] **Orario** di inizio e fine, anche approssimativo. Ora il post non lo dice.
+- [ ] **Le torte: intere o a fette? A che prezzo, o a offerta libera?** Se si
+      decide prima, conviene scriverlo nel post: la gente si avvicina più
+      volentieri a un banchetto quando sa quanto costa.
 - [ ] **Cosa si farà nella dimostrazione.** Il testo resta sul generico finché il
       programma non è deciso.
 - [ ] **Patrocinio o manifestazione più grande?** Se siamo dentro un evento del
