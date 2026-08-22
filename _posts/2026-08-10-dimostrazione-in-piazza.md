@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sabato 13 settembre siamo in piazza a Verolanuova"
-subtitle: Una dimostrazione delle nostre unità cinofile, e una vendita di torte
+subtitle: Una dimostrazione delle nostre unità cinofile
 permalink: /attivita/dimostrazione-in-piazza/
 summary: Sabato 13 settembre saremo in piazza Libertà con i nostri cani per una dimostrazione aperta a tutti, e con una vendita di torte fatte in casa per sostenere le attività del gruppo.
 ---
@@ -20,15 +20,26 @@ TODO — appena si sanno, aggiungere qui:
   generico perche' il programma non e' ancora deciso.
 - se siamo dentro una manifestazione piu' grande o se c'e' il patrocinio del
   Comune, va detto.
-- la LOCANDINA, quando e' pronta: va messa in assets/images/ e richiamata qui
-  con  image: /assets/images/nome-file.jpg  nel front matter, cosi' compare
-  anche nella scheda dell'elenco attivita' e nelle anteprime social.
+
+LA LOCANDINA, quando e' pronta:
+1. mettere il file in  assets/images/locandina-13-settembre.jpg
+2. aggiungere questa riga nel front matter qui sopra:
+     image: /assets/images/locandina-13-settembre.jpg
+   Da sola fa due cose: mette la locandina in cima alla scheda del post
+   nell'elenco /attivita/, e la usa come anteprima quando qualcuno incolla il
+   link su WhatsApp o Facebook.
+3. se la si vuole anche a grandezza piena dentro al post, aggiungere nel testo:
+     ![Locandina della dimostrazione del 13 settembre](/assets/images/locandina-13-settembre.jpg)
+   Questo passaggio NON e' automatico.
+Nota per chi la disegna: le anteprime social tagliano ai lati, quindi le
+informazioni importanti vanno tenute al centro. Se si puo' avere anche una
+versione orizzontale, l'anteprima viene meglio.
 {% endcomment %}
 
 ## Le torte
 
-Nello stesso banchetto troverai una **vendita di torte fatte in casa**, preparate
-dai volontari del gruppo.
+In piazza allestiremo il nostro gazebo, con un banchetto di **torte fatte in
+casa** preparate dai volontari del gruppo.
 
 Il ricavato serve a sostenere le attività del gruppo. Siamo un'organizzazione di
 volontariato, e le spese del campo, dell'attrezzatura e dell'addestramento le

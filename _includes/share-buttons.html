@@ -1,0 +1,36 @@
+{%- comment -%}
+Overrides the theme's share buttons: the original offered Twitter, LinkedIn and
+Reddit, which nobody round here uses. WhatsApp and Facebook are how this news
+actually travels; email covers everyone else.
+{%- endcomment -%}
+{%- assign indirizzo = page.url | prepend: site.baseurl | prepend: site.url -%}
+{%- assign titolo = page.title | url_encode -%}
+
+<p><strong>Condividi</strong></p>
+<div class="buttons {% if include.centered %} is-centered {% endif %}">
+    <a
+        class="button is-medium is-primary"
+        href="https://wa.me/?text={{ titolo }}%20{{ indirizzo | url_encode }}"
+        target="_blank"
+        rel="noopener"
+        aria-label="Condividi su WhatsApp"
+    >
+        <span class="icon"><i class="fab fa-whatsapp fa-lg"></i></span>
+    </a>
+    <a
+        class="button is-medium is-primary"
+        href="https://www.facebook.com/sharer/sharer.php?u={{ indirizzo | url_encode }}"
+        target="_blank"
+        rel="noopener"
+        aria-label="Condividi su Facebook"
+    >
+        <span class="icon"><i class="fab fa-facebook fa-lg"></i></span>
+    </a>
+    <a
+        class="button is-medium"
+        href="mailto:?subject={{ titolo }}&body={{ indirizzo | url_encode }}"
+        aria-label="Condividi per email"
+    >
+        <span class="icon"><i class="fas fa-envelope fa-lg"></i></span>
+    </a>
+</div>

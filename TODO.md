@@ -91,6 +91,23 @@ in `_config.yml`.
       lasciando bianche solo le zone interne al disegno — musi, muso del cane,
       viso. Da fare in Inkscape sul tracciato bianco, oppure ritracciando.
 
+## Dimostrazione del 13 settembre
+
+Il post è già online: `_posts/2026-08-10-dimostrazione-in-piazza.md`. Dentro al
+file ci sono le istruzioni per ogni punto.
+
+- [ ] **Orario** di inizio e fine, anche approssimativo. Ora il post non lo dice.
+- [ ] **Cosa si farà nella dimostrazione.** Il testo resta sul generico finché il
+      programma non è deciso.
+- [ ] **Patrocinio o manifestazione più grande?** Se siamo dentro un evento del
+      Comune va detto.
+- [ ] **Locandina.** File in `assets/images/`, poi una riga `image:` nel post: da
+      sola mette la locandina nella scheda dell'elenco e nelle anteprime di
+      WhatsApp e Facebook. Chi la disegna tenga le informazioni al centro, perché
+      le anteprime tagliano ai lati.
+- [ ] **A evento concluso:** togliere l'avviso dalla home commentando il blocco
+      `avviso:` in `_config.yml`. Il post resta nell'archivio.
+
 ## Raccolta fondi
 
 - [ ] **5×1000:** testo di presentazione. Il codice fiscale è 97007140177.
