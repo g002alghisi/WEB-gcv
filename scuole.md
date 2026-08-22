@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nelle scuole
-subtitle: Incontri con i bambini, con i nostri cani
+subtitle: Una mattinata con i bambini e i nostri cani
 permalink: /cosa-facciamo/scuole/
 ---
 
