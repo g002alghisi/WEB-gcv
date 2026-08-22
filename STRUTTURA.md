@@ -45,22 +45,30 @@ di *pubblicazione*. È obbligatorio: senza data Jekyll non lo riconosce come pos
 `permalink:` del post. La convenzione adottata è:
 
 ```
-/attivita/evento-posto-anno/
+/attivita/evento-posto-anno-mese/
 ```
 
-per esempio `/attivita/dimostrazione-verolanuova-2026/`.
+per esempio `/attivita/dimostrazione-piazza-verolanuova-2026-09/`.
 
-Tre pezzi, sempre in quest'ordine: **che cosa** è (dimostrazione, esercitazione,
-spiedo, incontro), **dove** si è svolto, **in che anno**.
+Quattro pezzi, sempre in quest'ordine: **che cosa** è (dimostrazione,
+esercitazione, spiedo, incontro), **dove** si è svolto, **in che anno** e **in
+che mese**. Il mese a due cifre, così due iniziative dello stesso tipo nello
+stesso posto e nello stesso anno non si pestano i piedi.
 
 Perché il posto e l'anno: le iniziative si ripetono, e la stessa cosa si fa in
 paesi diversi. Senza quei due pezzi la dimostrazione del 2027, o quella in un
 altro Comune, non potrebbe avere un indirizzo suo. Così ogni edizione resta
 consultabile e si capisce di cosa si tratta già dall'indirizzo.
 
-Da ricordare: **posto e anno vanno scritti a mano** ogni volta che si crea un
+Da ricordare: **posto, anno e mese vanno scritti a mano** ogni volta che si crea un
 post. Se ci si dimentica il sito funziona lo stesso, ma prima o poi ci si trova
 con un conflitto da risolvere.
+
+**L'indirizzo va deciso prima di condividere il link.** Una volta che il link
+gira su WhatsApp e nelle chat del paese, cambiarlo significa lasciare un 404 a
+chiunque abbia ricevuto il messaggio vecchio, e nessuno scriverà per segnalarlo.
+Finché il post è appena creato si cambia liberamente; dopo la prima condivisione,
+non si tocca più.
 
 ## La home
 

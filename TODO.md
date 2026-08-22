@@ -93,7 +93,7 @@ in `_config.yml`.
 
 ## Dimostrazione del 13 settembre 2026
 
-Il post è già online: `_posts/2026-08-10-dimostrazione-verolanuova.md`. Dentro al
+Il post è già online: `_posts/2026-08-10-dimostrazione-piazza-verolanuova.md`. Dentro al
 file ci sono le istruzioni per ogni punto.
 
 - [ ] **CONFERMARE GIORNO E DATA.** Il messaggio sul gruppo diceva "13 settembre"
