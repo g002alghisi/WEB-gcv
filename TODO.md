@@ -79,6 +79,25 @@ in `_config.yml`.
 - [ ] **Fotografie** del gruppo, dei cani al lavoro, delle esercitazioni.
       Attenzione alle **liberatorie**, soprattutto per le foto scattate nelle
       scuole: senza consenso dei genitori, niente volti di minori.
+
+      Serviranno anche come **banner in cima alle pagine**, al posto della fascia
+      verde: una riga `hero_image:` nel front matter e la fascia diventa la
+      fotografia. Si può fare una pagina alla volta, man mano che le foto
+      arrivano; quelle senza restano verdi.
+
+      Cosa chiedere a chi scatta:
+      - **larghe almeno 1600 pixel**, meglio 2000. Il banner occupa tutta la
+        larghezza dello schermo e una foto piccola viene sgranata.
+      - **soggetto spostato da un lato.** Il centro viene coperto da titolo e
+        sottotitolo, e i bordi vengono tagliati sugli schermi stretti.
+      - **orizzontali**, non verticali.
+
+      Due cose da fare al momento di metterle sul sito:
+      - **ridimensionare e comprimere.** Una foto dal telefono pesa anche 5 MB e
+        rallenta il sito su rete mobile: si scende sotto i 300 KB senza
+        differenze visibili.
+      - aggiungere anche `hero_darken: true`, che stende un velo scuro
+        sull'immagine. Il titolo è bianco e su una foto chiara sparirebbe.
 - [ ] **Rassegna stampa:** link agli articoli di giornale che vi hanno citato.
       → sezione *Attività*.
 - [ ] **Loghi** di eventuali sponsor, convenzioni o patrocini del Comune.

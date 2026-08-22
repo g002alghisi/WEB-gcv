@@ -42,20 +42,27 @@ Fra un'emergenza e l'altra ci si allena. Partecipiamo a esercitazioni provincial
 e nazionali, che servono a provare sul serio quello che in campo si prova a
 freddo: i tempi, le comunicazioni, il coordinamento con le altre squadre.
 
+[Come lavorano le unità cinofile](/cosa-facciamo/ricerca/)
+
 ## Non solo ricerca
 
 Il lavoro operativo è una parte di quello che facciamo, e non la sola.
 
-Teniamo incontri di educazione di base per i cani di chiunque voglia
-parteciparvi: un cane che sa stare al mondo vive meglio, e vive meglio anche chi
-gli sta intorno. È anche il modo in cui la maggior parte di noi ha conosciuto
-questo gruppo.
+Teniamo incontri di [educazione di base](/cosa-facciamo/educazione-di-base/) per
+i cani di chiunque voglia parteciparvi: un cane che sa stare al mondo vive
+meglio, e vive meglio anche chi gli sta intorno. È anche il modo in cui la
+maggior parte di noi ha conosciuto questo gruppo.
 
-Andiamo nelle scuole, con gli insegnanti e i bambini, a raccontare come ci si
-avvicina a un cane, come lo si rispetta e cosa un cane capisce di noi.
+Andiamo [nelle scuole](/cosa-facciamo/scuole/), con gli insegnanti e i bambini, a
+raccontare come ci si avvicina a un cane, come lo si rispetta e cosa un cane
+capisce di noi.
 
 E chi ha voglia di vedere da vicino cosa vuol dire lavorare con un cane può
-semplicemente venire a trovarci al campo.
+semplicemente [venire a trovarci](/contatti/) al campo.
+
+[L'educazione di base](/cosa-facciamo/educazione-di-base/) ·
+[Gli incontri nelle scuole](/cosa-facciamo/scuole/) ·
+[Tutte le attività](/cosa-facciamo/)
 
 ## Se stai cercando una persona scomparsa
 
