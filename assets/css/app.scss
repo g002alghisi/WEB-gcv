@@ -36,6 +36,13 @@ $primary-invert: #ffffff;
     border-top: 2px solid $badge-green;
 }
 
+// The navbar stays green in both light and dark mode, but Bulma flips the
+// burger button to a dark colour in dark mode, leaving it nearly invisible on
+// mobile. It has to follow the navbar, not the page scheme.
+.navbar.is-primary .navbar-burger {
+    color: #ffffff;
+}
+
 // Share buttons in each platform's own brand colour, white icon on top, the
 // way both apps draw them. Note the WhatsApp pairing is decorative rather than
 // accessible: white on #25D366 measures 1.98:1, under the 3:1 wanted for
