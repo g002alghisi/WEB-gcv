@@ -4,10 +4,7 @@ title: Gruppo Cinofilo Verolese
 subtitle: Volontari e cani per la ricerca di persone disperse. A Verolanuova dal 2000.
 ---
 
-{% if site.avviso %}
-{% capture avviso %}{{ site.avviso.testo }}{% if site.avviso.link %} [{{ site.avviso.link_testo | default: "Leggi tutto" }}]({{ site.avviso.link }}){% endif %}{% endcapture %}
-{% include notification.html message=avviso status="is-primary" icon="fas fa-calendar-day" %}
-{% endif %}
+{% include avviso.html %}
 
 ## Chi siamo
 

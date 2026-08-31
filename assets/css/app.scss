@@ -43,6 +43,27 @@ $primary-invert: #ffffff;
     color: #ffffff;
 }
 
+// Temporary highlight box on the homepage: a green rule down the side marks it
+// as an announcement without shouting, and the poster thumbnail is capped so a
+// tall image cannot stretch the box.
+.avviso {
+    border-left: 6px solid $primary;
+    margin-bottom: 2.5rem;
+
+    .avviso-locandina {
+        max-width: 170px;
+        border-radius: 4px;
+    }
+
+    .title a {
+        color: inherit;
+
+        &:hover {
+            color: $link;
+        }
+    }
+}
+
 // Share buttons in each platform's own brand colour, white icon on top, the
 // way both apps draw them. Note the WhatsApp pairing is decorative rather than
 // accessible: white on #25D366 measures 1.98:1, under the 3:1 wanted for

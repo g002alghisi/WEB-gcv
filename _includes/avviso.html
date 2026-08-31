@@ -1,0 +1,31 @@
+{%- comment -%}
+Temporary highlight box for the homepage, driven by the "avviso" block in
+_config.yml. Renders the poster thumbnail beside the text when one is given,
+and degrades to a text-only box when it isn't. Remove the config block to
+switch the whole thing off.
+
+Careful: this markup must stay flush left. It is included from a Markdown page,
+and lines indented by four spaces would be treated as a code block.
+{%- endcomment -%}
+{% if site.avviso %}
+<div class="box avviso">
+<div class="columns is-vcentered">
+{% if site.avviso.immagine %}
+<div class="column is-narrow has-text-centered">
+<a href="{{ site.avviso.link | relative_url }}">
+<img class="avviso-locandina" src="{{ site.avviso.immagine | relative_url }}" alt="{{ site.avviso.immagine_alt | default: 'Locandina dell&rsquo;iniziativa' }}">
+</a>
+</div>
+{% endif %}
+<div class="column">
+{% if site.avviso.titolo %}
+<p class="title is-4 mb-2"><a href="{{ site.avviso.link | relative_url }}">{{ site.avviso.titolo }}</a></p>
+{% endif %}
+<div class="content">{{ site.avviso.testo | markdownify }}</div>
+{% if site.avviso.link %}
+<a href="{{ site.avviso.link | relative_url }}" class="button is-primary">{{ site.avviso.link_testo | default: "Leggi tutto" }}</a>
+{% endif %}
+</div>
+</div>
+</div>
+{% endif %}
