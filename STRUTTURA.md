@@ -70,6 +70,41 @@ chiunque abbia ricevuto il messaggio vecchio, e nessuno scriverà per segnalarlo
 Finché il post è appena creato si cambia liberamente; dopo la prima condivisione,
 non si tocca più.
 
+## Dove vanno le immagini
+
+```
+assets/images/
+├── favicon.png      l'icona del sito, non è un'immagine di contenuto
+├── logo/            lo stemma e le sue versioni
+├── pagine/          i banner (hero) delle pagine fisse
+├── attivita/        i materiali dei post, una cartella per evento
+│   └── 2026-09-dimostrazione-verolanuova/
+│         locandina.jpg
+└── generali/        foto riutilizzabili: cani, campo, esercitazioni
+```
+
+Il criterio è **per destinazione, non per tipo**: ogni immagine sta dove sta il
+contenuto che la usa. Quando un evento è passato si sa cosa si può archiviare, e
+quando si rifà una pagina si sa quali file toccare.
+
+**Una cartella per evento** dentro `attivita/`, con lo stesso schema dei
+permalink: `anno-mese-evento-posto`. Così l'ordine alfabetico è anche quello
+cronologico, e locandina, foto e ritagli di giornale di quell'evento stanno
+insieme invece di finire sparsi.
+
+**`generali/`** è per le foto che si riusano in più punti: un buon primo piano di
+un cane al lavoro può stare nella pagina Ricerca oggi e in un post fra sei mesi.
+Meglio una copia sola.
+
+### Nomi dei file
+
+Tutto **minuscolo**, **niente spazi**, **niente accenti**, trattini al posto
+degli spazi. Non è pignoleria: negli indirizzi web gli spazi diventano `%20` e
+gli accenti su alcuni server si rompono.
+
+Sì: `locandina.jpg`, `cane-macerie-01.jpg`
+No: `Locandina Definitiva (2).jpg`, `IMG_4471.JPG`
+
 ## La home
 
 Il nodo aperto. La difficoltà è che deve fare **due cose insieme**:

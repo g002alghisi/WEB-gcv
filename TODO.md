@@ -55,6 +55,9 @@ in `_config.yml`.
       senza nominare tecniche né collegare Wikipedia: scelta voluta.
 - [x] ~~Affiliazione IRO/FCI~~ → no: IRO è un brevetto di alto livello che il
       gruppo non ha. La pagina non cita enti né certificazioni, e non deve.
+- [ ] **Affiliazione ENCI?** Sulla locandina compare il logo ENCI. Se il gruppo è
+      affiliato, vale la pena scriverlo in *Chi siamo*: è il tipo di riferimento
+      che dà credibilità davanti a un ente.
 - [ ] **Campo macerie di Ghedi:** link al loro sito e ai loro social.
 - [ ] **Nomi degli esami** e dell'ente che li rilascia oggi, dopo l'uscita da
       UCIS. Ora la pagina dice solo "esami".
@@ -115,22 +118,23 @@ in `_config.yml`.
 Il post è già online: `_posts/2026-08-10-dimostrazione-piazza-verolanuova.md`. Dentro al
 file ci sono le istruzioni per ogni punto.
 
-- [ ] **CONFERMARE GIORNO E DATA.** Il messaggio sul gruppo diceva "13 settembre"
-      senza giorno della settimana: il 13 settembre 2026 è una **domenica**. Se
-      l'intenzione era un sabato, la data giusta sarebbe il 12. Da chiarire prima
-      di diffondere il link.
-- [ ] **Orario** di inizio e fine, anche approssimativo. Ora il post non lo dice.
+- [x] ~~Confermare giorno e data~~ → la locandina conferma: **domenica 13
+      settembre 2026**.
+- [x] ~~Orario~~ → 10:00-17:00, con dimostrazioni alle 11:00 e alle 15:00.
 - [ ] **Le torte: intere o a fette? A che prezzo, o a offerta libera?** Se si
       decide prima, conviene scriverlo nel post: la gente si avvicina più
       volentieri a un banchetto quando sa quanto costa.
-- [ ] **Cosa si farà nella dimostrazione.** Il testo resta sul generico finché il
-      programma non è deciso.
-- [ ] **Patrocinio o manifestazione più grande?** Se siamo dentro un evento del
-      Comune va detto.
-- [ ] **Locandina.** File in `assets/images/`, poi una riga `image:` nel post: da
-      sola mette la locandina nella scheda dell'elenco e nelle anteprime di
-      WhatsApp e Facebook. Chi la disegna tenga le informazioni al centro, perché
-      le anteprime tagliano ai lati.
+- [x] ~~Cosa si farà nella dimostrazione~~ → due dimostrazioni pratiche, alle
+      11:00 e alle 15:00; nel resto della giornata il gruppo è a disposizione per
+      domande. Scritto nel post.
+- [x] ~~Patrocinio~~ → **Comune di Verolanuova**, scritto in fondo al post.
+- [ ] **Locandina: manca solo il file.** Salvarla come
+      `assets/images/attivita/2026-09-dimostrazione-verolanuova/locandina.jpg`,
+      poi aggiungere la riga `image:` nel post (le istruzioni esatte sono dentro
+      al file del post).
+- [ ] **Le torte non compaiono sulla locandina**, ma sul sito sì. Verificare che
+      il banchetto sia confermato: altrimenti sito e locandina dicono cose
+      diverse.
 - [ ] **A evento concluso:** togliere l'avviso dalla home commentando il blocco
       `avviso:` in `_config.yml`. Il post resta nell'archivio.
 

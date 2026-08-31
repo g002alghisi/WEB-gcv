@@ -3,46 +3,38 @@ layout: post
 title: "Domenica 13 settembre 2026 siamo in piazza a Verolanuova"
 subtitle: Una dimostrazione delle nostre unità cinofile
 permalink: /attivita/dimostrazione-piazza-verolanuova-2026-09/
-summary: Domenica 13 settembre 2026 saremo in piazza Libertà con i nostri cani per una dimostrazione aperta a tutti, e con una vendita di torte fatte in casa per sostenere le attività del gruppo.
+image: /assets/images/attivita/2026-09-dimostrazione-verolanuova/anteprima-social.jpg
+summary: Domenica 13 settembre 2026, dalle 10:00 alle 17:00, saremo in Piazza della Libertà con i nostri cani. Dimostrazioni pratiche alle 11:00 e alle 15:00, e un banchetto di torte fatte in casa per sostenere le attività del gruppo.
 ---
 
-## La dimostrazione
+## Quando e dove
 
-Domenica **13 settembre 2026** saremo in **piazza Libertà a Verolanuova** con i
-nostri cani.
+**Domenica 13 settembre 2026**, dalle **10:00 alle 17:00**, in
+[Piazza della Libertà a Verolanuova](https://www.google.com/maps/search/?api=1&query=Piazza+della+Libert%C3%A0%2C+25028+Verolanuova+BS).
 
-Sarà l'occasione per vedere da vicino come lavorano le unità cinofile: durante il
-pomeriggio faremo una **dimostrazione** con i nostri cani, per mostrare che cosa
-significa addestrare un cane alla ricerca di persone.
+Una giornata dedicata a far vedere quello che facciamo durante l'addestramento.
+L'ingresso è libero, si passa quando si vuole.
 
-{% comment %}
-TODO: appena si sanno, aggiungere qui:
-- l'ORARIO di inizio e fine (anche approssimativo: "dal pomeriggio" e' poco)
-- che cosa si fara' esattamente nella dimostrazione. Ora il testo resta sul
-  generico perche' il programma non e' ancora deciso.
-- se siamo dentro una manifestazione piu' grande o se c'e' il patrocinio del
-  Comune, va detto.
+## Il programma
 
-LA LOCANDINA, quando e' pronta:
-1. mettere il file in  assets/images/locandina-13-settembre.jpg
-2. aggiungere questa riga nel front matter qui sopra:
-     image: /assets/images/locandina-13-settembre.jpg
-   Da sola fa due cose: mette la locandina in cima alla scheda del post
-   nell'elenco /attivita/, e la usa come anteprima quando qualcuno incolla il
-   link su WhatsApp o Facebook.
-3. se la si vuole anche a grandezza piena dentro al post, aggiungere nel testo:
-     ![Locandina della dimostrazione del 13 settembre](/assets/images/locandina-13-settembre.jpg)
-   Questo passaggio NON e' automatico.
-Nota per chi la disegna: le anteprime social tagliano ai lati, quindi le
-informazioni importanti vanno tenute al centro. Se si puo' avere anche una
-versione orizzontale, l'anteprima viene meglio.
-{% endcomment %}
+Le dimostrazioni vere e proprie sono **due**, e conviene esserci:
+
+- alle **11:00**
+- alle **15:00**
+
+In quei due momenti le unità cinofile mostreranno le attività pratiche che
+svolgiamo con i cani: è l'occasione per capire da vicino cosa significa
+addestrare un cane alla ricerca di persone.
+
+Nel resto della giornata i cani si riposano e noi restiamo lì: **chi ha domande
+ci trova**. Come funziona l'addestramento, quanto tempo ci vuole, se il proprio
+cane potrebbe farlo, cosa vuol dire far parte del gruppo. Chiedete pure, è il
+motivo per cui siamo in piazza.
 
 ## Le torte
 
-In piazza allestiremo il nostro gazebo con un banchetto di **torte fatte in
-casa**, preparate dai volontari del gruppo e **messe in vendita** per raccogliere
-fondi.
+Al nostro gazebo ci sarà anche un banchetto di **torte fatte in casa**, preparate
+dai volontari del gruppo e messe in vendita per raccogliere fondi.
 
 Il ricavato serve a sostenere le attività del gruppo. Siamo un'organizzazione di
 volontariato, e le spese del campo, dell'attrezzatura e dell'addestramento le
@@ -54,11 +46,19 @@ Passare dal banchetto e comprarne una è il modo più semplice per darci una man
 TODO: si vendono torte intere o a fette? E a che prezzo, o a offerta libera?
 Il testo per ora non lo dice. Se il prezzo e' deciso prima dell'evento, vale la
 pena scriverlo: la gente si avvicina piu' volentieri se sa quanto costa.
+Nota: le torte NON compaiono sulla locandina. Verificare che il banchetto sia
+confermato, altrimenti sito e locandina dicono cose diverse.
 {% endcomment %}
 
-## Dove
+## Con il patrocinio del Comune di Verolanuova
 
-[Piazza Libertà, 25028 Verolanuova (BS)](https://www.google.com/maps/search/?api=1&query=Piazza+Libert%C3%A0%2C+25028+Verolanuova+BS)
+L'iniziativa si svolge con il patrocinio del Comune di Verolanuova.
+
+---
 
 Se vuoi chiederci qualcosa prima, o semplicemente conoscerci, trovi i nostri
 recapiti nella [pagina dei contatti](/contatti/).
+
+## La locandina
+
+![Locandina della dimostrazione delle unità cinofile di domenica 13 settembre 2026 in Piazza della Libertà a Verolanuova](/assets/images/attivita/2026-09-dimostrazione-verolanuova/locandina.jpg)
