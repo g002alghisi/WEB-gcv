@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Educazione di base
-subtitle: Incontri per te e il tuo cane, al campo del Ponte della Luna
+subtitle: Incontri per te e il tuo cane, al campo del Ponte della Luna a Verolanuova (BS)
 permalink: /cosa-facciamo/educazione-di-base/
 ---
 

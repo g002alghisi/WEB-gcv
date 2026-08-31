@@ -7,11 +7,12 @@ permalink: /chi-siamo/
 
 ## Come siamo nati
 
-Il Gruppo Cinofilo Verolese è nato a Verolanuova nel **2000**, da un gruppo di
-persone che avevano in comune la passione per i cani e la voglia di mettere quel
-tempo al servizio di qualcuno. Dal **2003** facciamo parte del gruppo comunale di
-Protezione Civile di Verolanuova, e nel **2018** siamo diventati
-un'organizzazione di volontariato: il Gruppo Cinofilo Verolese ODV.
+Il Gruppo Cinofilo Verolese è nato a Verolanuova, in provincia di Brescia, nel
+**2000**, da un gruppo di persone che avevano in comune la passione per i cani e
+la voglia di mettere quel tempo al servizio di qualcuno. Dal **2003** facciamo
+parte del gruppo comunale di Protezione Civile di Verolanuova, e nel **2018**
+siamo diventati un'organizzazione di volontariato: il Gruppo Cinofilo Verolese
+ODV.
 
 Quello che facciamo, in due parole: addestriamo cani e conduttori a cercare
 persone disperse in superficie, e li teniamo pronti per quando servono.

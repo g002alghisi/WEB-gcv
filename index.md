@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Gruppo Cinofilo Verolese
-subtitle: Volontari e cani per la ricerca di persone disperse. A Verolanuova dal 2000.
+subtitle: Volontari e cani per la ricerca di persone disperse. A Verolanuova (BS) dal 2000.
 ---
 
 {% include avviso.html %}
 
 ## Chi siamo
 
-Siamo un gruppo di volontari di Verolanuova, e un gruppo comunale di Protezione
-Civile. Addestriamo unità cinofile, cioè un cane e la persona che lo conduce,
+Siamo un gruppo di volontari di **Verolanuova, in provincia di Brescia**, e un
+gruppo comunale di Protezione Civile. Addestriamo unità cinofile, cioè un cane e la persona che lo conduce,
 per la ricerca di persone disperse, e le teniamo pronte per quando c'è bisogno.
 
 Ci troviamo al campo del Ponte della Luna il sabato pomeriggio. Insieme al nostro

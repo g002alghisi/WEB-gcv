@@ -4,13 +4,13 @@ title: "Domenica 13 settembre 2026 siamo in piazza a Verolanuova"
 subtitle: Una dimostrazione delle nostre unità cinofile
 permalink: /attivita/dimostrazione-piazza-verolanuova-2026-09/
 image: /assets/images/attivita/2026-09-dimostrazione-verolanuova/anteprima-social.jpg
-summary: Domenica 13 settembre 2026, dalle 10:00 alle 17:00, saremo in Piazza della Libertà con i nostri cani. Dimostrazioni pratiche alle 11:00 e alle 15:00, e un banchetto di torte fatte in casa per sostenere le attività del gruppo.
+summary: Domenica 13 settembre 2026, dalle 10:00 alle 17:00, saremo in Piazza della Libertà a Verolanuova (BS) con i nostri cani. Dimostrazioni pratiche alle 11:00 e alle 15:00, e un banchetto di torte fatte in casa per sostenere le attività del gruppo.
 ---
 
 ## Quando e dove
 
 **Domenica 13 settembre 2026**, dalle **10:00 alle 17:00**, in
-[Piazza della Libertà a Verolanuova](https://www.google.com/maps/search/?api=1&query=Piazza+della+Libert%C3%A0%2C+25028+Verolanuova+BS).
+[Piazza della Libertà a Verolanuova (BS)](https://www.google.com/maps/search/?api=1&query=Piazza+della+Libert%C3%A0%2C+25028+Verolanuova+BS).
 
 Una giornata dedicata a far vedere quello che facciamo durante l'addestramento.
 L'ingresso è libero, si passa quando si vuole.
